@@ -1,0 +1,1 @@
+import{e as s,a,g as n,w as c,u as r,r as _,o as l,x as p}from"./vendor.02b94bd7.js";const u={style:{"margin-top":"50px"}},h=p("\u5730\u533A\u9009\u62E9"),x=s({setup(d){let o=e=>{console.log(e)};return(e,i)=>{const t=_("l-choose-area");return l(),a("div",u,[n(t,{onChoose:r(o),width:"150px"},{default:c(()=>[h]),_:1},8,["onChoose"])])}}});export{x as default};

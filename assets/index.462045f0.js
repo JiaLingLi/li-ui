@@ -1,0 +1,1 @@
+import{_ as o}from"./index.be2ce357.js";import{a as r,g as t,r as c,o as n}from"./vendor.02b94bd7.js";const a={};function s(_,l){const e=c("l-choose-date");return n(),r("div",null,[t(e)])}var f=o(a,[["render",s]]);export{f as default};

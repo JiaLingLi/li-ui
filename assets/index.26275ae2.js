@@ -1,0 +1,1 @@
+import{e as o,a as r,g as n,u as a,r as s,o as c}from"./vendor.02b94bd7.js";const _=o({setup(p){let t=60;return(l,i)=>{const e=s("l-progress");return c(),r("div",null,[n(e,{isAnimation:"",percentage:a(t)},null,8,["percentage"]),n(e,{isAnimation:"",type:"circle",percentage:100})])}}});export{_ as default};

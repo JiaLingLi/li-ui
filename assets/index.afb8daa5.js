@@ -1,0 +1,1 @@
+import{e as s,a as l,g as r,u as n,r as c,o as _}from"./vendor.02b94bd7.js";const g=s({setup(h){let o=e=>{console.log(e)},t=e=>{};return(e,m)=>{const a=c("l-choose-time");return _(),l("div",null,[r(a,{onStartChange:n(o),onEndChange:n(t)},null,8,["onStartChange","onEndChange"])])}}});export{g as default};
